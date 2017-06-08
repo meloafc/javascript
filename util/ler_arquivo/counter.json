@@ -1,0 +1,680 @@
+{
+  "events" : {
+    "-Km-8G7s54jhUDzJjSOD" : {
+      "date" : 1496798568939,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km-8HIojXmV_VrGDckj" : {
+      "date" : 1496798573735,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km-8LKXo4m8qFYH5sv4" : {
+      "date" : 1496798553442,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km-8MYPH4JctzDIEiOi" : {
+      "date" : 1496798595213,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km-8X9VUJ-fd236vUBU" : {
+      "date" : 1496798636384,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km-8XpS4HutAN509HAJ" : {
+      "date" : 1496798639133,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km-8c21Ix9NJjGfGBKA" : {
+      "date" : 1496798660482,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km-8dOMPi3zlAiUXWjg" : {
+      "date" : 1496798666007,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km-8edOe_ZsJUjHCV7H" : {
+      "date" : 1496798671129,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km-9uG2xdnsXa7iFxzt" : {
+      "date" : 1496798999120,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km-9vUdOl-81FHTtrio" : {
+      "date" : 1496799004150,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km-HTvBaRTieEFJ8_53" : {
+      "date" : 1496800982233,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km-Hbul8Ja_m1nhHRzK" : {
+      "date" : 1496801018989,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km-IxNnd1RPEMRWoZgZ" : {
+      "date" : 1496801369190,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km-IyYRZw-N82_s9fMw" : {
+      "date" : 1496801373967,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km-K9joCAkaHR_6Votv" : {
+      "date" : 1496801686015,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km-PRX1w56gvuFhy7Lj" : {
+      "date" : 1496803069580,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km-PRelbviTFgFQhN54" : {
+      "date" : 1496803070140,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km0tGDj8_y0QPcCgBzO" : {
+      "date" : 1496827892654,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km0tGIktU4ElIbkWyJr" : {
+      "date" : 1496827892976,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km0tHXY3SxrFRwXLJTl" : {
+      "date" : 1496827897881,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km0tHsB_6XuFokMRhvr" : {
+      "date" : 1496827899266,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km0tpGUa6snAanORolP" : {
+      "date" : 1496828040149,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km0tpLSLUGy_2BmRQJT" : {
+      "date" : 1496828040467,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km0u91mpno0efOGTYh_" : {
+      "date" : 1496828125224,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km0u95dpoLS0gOtwb7C" : {
+      "date" : 1496828125471,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km0yCdWBx1xRDZd83b2" : {
+      "date" : 1496829188566,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km0yH7aAe1GmilmU3Vd" : {
+      "date" : 1496829206940,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km0yI2FjVZOujBfQzUH" : {
+      "date" : 1496829210694,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km119RJPdlwYIyDBJLo" : {
+      "date" : 1496830224261,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km11AgGK2OvftPNVL4X" : {
+      "date" : 1496830229378,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km13b4NXnpWgTeFTERw" : {
+      "date" : 1496830865865,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km13cHvuPS5UMe5jUvu" : {
+      "date" : 1496830870828,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km14iW1ghpylzXuYYyw" : {
+      "date" : 1496831158451,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km14jkwY2LFjPtFFiKt" : {
+      "date" : 1496831163565,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km16GvhgB3oeFdf2mrg" : {
+      "date" : 1496831565662,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km16ny4BpDc8MFtj2mb" : {
+      "date" : 1496831704965,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km16o0FfBYgiuUbnQef" : {
+      "date" : 1496831705168,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km16om4q1rBz2H-qEym" : {
+      "date" : 1496831707331,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km1FEu34fYttkb0ylsD" : {
+      "date" : 1496833915994,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km1FFQQQgannm5962yh" : {
+      "date" : 1496833918129,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km1V6E4FjIRSsjWP4MH" : {
+      "date" : 1496838074316,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km1V6q3Vr7CGaEvi7Zn" : {
+      "date" : 1496838076811,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km1edGUsgLI3cM4KP07" : {
+      "date" : 1496840835141,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km1edcrGuY2PPtkT-GU" : {
+      "date" : 1496840836637,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km1eeQMhkELqLkoePce" : {
+      "date" : 1496840839869,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km1eiHuXZzzhYnqjbWa" : {
+      "date" : 1496840856221,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km1gT5UaH0d2o-yFDZE" : {
+      "date" : 1496841313789,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km1geJskgKmNVMW-4Em" : {
+      "date" : 1496841363804,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km1tI4SseIkxid4p3eQ" : {
+      "date" : 1496844676425,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km1tocGU90WU1x7QO5p" : {
+      "date" : 1496844814219,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km1w35BlVkcFM9vBjcd" : {
+      "date" : 1496845401862,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km1wN9qqBqM-m230rLP" : {
+      "date" : 1496845483704,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km1yHu2McrEiRI9I9gN" : {
+      "date" : 1496845987027,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km1y_qu8aNQxsC2PwqL" : {
+      "date" : 1496846064537,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km2-2-sTUoKGPrXzOhx" : {
+      "date" : 1496846445849,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km20cq63WVwZjKrsMZ6" : {
+      "date" : 1496846863115,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km23WsoN43jQiU5aoSy" : {
+      "date" : 1496847620735,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km23_rt3lNMtnp7wXHj" : {
+      "date" : 1496847637489,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km25VETE85CR26pWmKU" : {
+      "date" : 1496848138743,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km25n6JrGl0MmrZQzRY" : {
+      "date" : 1496848215692,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km260zhOEnJOOwk_ytn" : {
+      "date" : 1496848276644,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km26TnSz_VNQF9iNkN5" : {
+      "date" : 1496848394645,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km27YM4pxv5mh9pehjV" : {
+      "date" : 1496848675917,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km27qysOQJJUczlzdL2" : {
+      "date" : 1496848756288,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km28VbO_8Wm2oCq6en-" : {
+      "date" : 1496848926817,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km28XiIM_NMwPKU1n2C" : {
+      "date" : 1496848934731,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km29FGCNkONKGskz_LD" : {
+      "date" : 1496849121753,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km29wyhGkDWCYPEt_-O" : {
+      "date" : 1496849304888,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km2D1WDcia4o0nSH7jt" : {
+      "date" : 1496850113902,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km2E1P0rLJicc15XjUf" : {
+      "date" : 1496850376158,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km2E1huV032VnYqVsLP" : {
+      "date" : 1496850377431,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km2EsytNrz6rWtHzP97" : {
+      "date" : 1496850599702,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km2GEUrmKVLxqJ_sKnA" : {
+      "date" : 1496850953629,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km2GHDatmD50Eb3laCo" : {
+      "date" : 1496850964812,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km2ImDx_u9ZjCDNNdyP" : {
+      "date" : 1496851619825,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km2IoPOD92coK_0PmrC" : {
+      "date" : 1496851629185,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km2IsKfuVv-LfXs3CaP" : {
+      "date" : 1496851645267,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km2Udxuh64rAc411Rrb" : {
+      "date" : 1496854732357,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km2Vfhxk2wCGubeYchW" : {
+      "date" : 1496855001641,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km2VnqX4twkj75YdpGb" : {
+      "date" : 1496855034958,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km2pO0Df9NteIs9qWSw" : {
+      "date" : 1496860429437,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km2pyDUpOVDLB7tJV1f" : {
+      "date" : 1496860582452,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km2zvBoGcasusikYcMC" : {
+      "date" : 1496863190945,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3-asQ-bN5xjxn2Jyz" : {
+      "date" : 1496863370185,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km32d2KbuLIhuLdiIsg" : {
+      "date" : 1496864165986,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km33W_HSaY0UZyfI-Cd" : {
+      "date" : 1496864396812,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3CMbzKZzgbcFn4EU1" : {
+      "date" : 1496866715224,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3CMw1b73tJ0Svq6EY" : {
+      "date" : 1496866716659,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3DExoTJ70jbZv1Q3R" : {
+      "date" : 1496866946149,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3Fo-cJjfI5iFLXUUG" : {
+      "date" : 1496867618704,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3GyNOIMKhlvjIrGxj" : {
+      "date" : 1496867923678,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3HqepTwSJJCQNClmf" : {
+      "date" : 1496868154008,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3JyYuZOc7ENNxiR58" : {
+      "date" : 1496868709906,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3L56ISLgiby0KafNR" : {
+      "date" : 1496869003566,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3TkHaUHSkt7_C5ZJq" : {
+      "date" : 1496871272733,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3UVPhr4pBJsydlqLM" : {
+      "date" : 1496871470145,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3XI5oIxqOizJKO5DJ" : {
+      "date" : 1496872201798,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3YCoMU9iRAVedNKkL" : {
+      "date" : 1496872443582,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3YYekebFkmOZCpfoH" : {
+      "date" : 1496872533079,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3YZVGVRkE99iIpT9X" : {
+      "date" : 1496872536504,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3Zkk4kNpCpOvsj4Kn" : {
+      "date" : 1496872847920,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3Zlm3SwMSvp5QJhSv" : {
+      "date" : 1496872852592,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3l7mQ5GQNsGwlIffD" : {
+      "date" : 1496876091596,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3lCFLoSLvt86Ip9YX" : {
+      "date" : 1496876109883,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3lEOCYcq5SqfDKmZM" : {
+      "date" : 1496876118643,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3lHi1sIMI-07_ujrd" : {
+      "date" : 1496876132264,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3lS1b6In3H8klbY2e" : {
+      "date" : 1496876174541,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3lSF0XsGrTOlylh5p" : {
+      "date" : 1496876175399,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3lUSsI8wnujVs5g_H" : {
+      "date" : 1496876184478,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3lVokINkXjgwJ83uQ" : {
+      "date" : 1496876190038,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3lVwzlr_ASmL85EuT" : {
+      "date" : 1496876190565,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3lY-WObAZfLhP5lUW" : {
+      "date" : 1496876198983,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3la96eKFXZAmOGAHY" : {
+      "date" : 1496876211885,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3laYWZSU3MXjVQdna" : {
+      "date" : 1496876213511,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3mEyZFxMjt_zotpWW" : {
+      "date" : 1496876383178,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3mGBDd6uFvGAoOsLW" : {
+      "date" : 1496876388148,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3mgUUzn8oX73I35LP" : {
+      "date" : 1496876499973,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3mhd8o-8qgfCtXSsE" : {
+      "date" : 1496876504687,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3osRn2ao1qQTt9YxP" : {
+      "date" : 1496877073241,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3otby_EVBvvtUoEYq" : {
+      "date" : 1496877078052,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3p8R6rW0fvD8RYQb-" : {
+      "date" : 1496877142829,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km3p9aFbeuHaRt1DQy0" : {
+      "date" : 1496877147574,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km3pSp22dJ6KtI__a9J" : {
+      "date" : 1496877226345,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km42VpcHY_mJ6YvRSQq" : {
+      "date" : 1496880908708,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km42X3IhBrLnLUM5PBO" : {
+      "date" : 1496880913743,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km4Tk23GENf3N0IWhbn" : {
+      "date" : 1496888048920,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km4TlbP_X7O0vpgj1-C" : {
+      "date" : 1496888056152,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km4VjW6UH_RvpAU_jvK" : {
+      "date" : 1496888571843,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km4VkdyLOmrrX4r0CHq" : {
+      "date" : 1496888576505,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km4VknHba9PkMjzhppI" : {
+      "date" : 1496888577102,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6AALMEVX26eGfG8Ty" : {
+      "date" : 1496916472469,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6AASeD1UCiazK9Mj7" : {
+      "date" : 1496916472937,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6AAo6FMl4HXFGwFBs" : {
+      "date" : 1496916474374,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6ABOsLKxNCGIl2MYx" : {
+      "date" : 1496916476791,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6AKMWAfmWcCCVKtmO" : {
+      "date" : 1496916513504,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6AL7vhddgMUIsDk7I" : {
+      "date" : 1496916516666,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6AbBKCwp1iCbeou12" : {
+      "date" : 1496916586516,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6AbkEoubvft7mLlys" : {
+      "date" : 1496916588814,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6Ar2EM4RvNwULZMUT" : {
+      "date" : 1496916651470,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6AsGhdn1cIlbC4F7q" : {
+      "date" : 1496916656492,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6AyCYkCB-ar5BnfOC" : {
+      "date" : 1496916680802,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6AyaltZpq_VFGK2n3" : {
+      "date" : 1496916682416,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6Bmi1y5wc5OitMTrj" : {
+      "date" : 1496916895873,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6CZ7NOU6kKctMhoZl" : {
+      "date" : 1496917098260,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6FYTLeBtl_Ykr_FTp" : {
+      "date" : 1496917882005,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6FZgWhHWrbF7H-w1Q" : {
+      "date" : 1496917887008,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6L5HNmtOSVESeOcbh" : {
+      "date" : 1496919337434,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6L6WqtAoL4WQ73m0M" : {
+      "date" : 1496919342520,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6LEFlVx_nNmAQvSgO" : {
+      "date" : 1496919374195,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6LFI1nQgZehdWgdYo" : {
+      "date" : 1496919378436,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6MiLLGYWLV4n5Ee4l" : {
+      "date" : 1496919763614,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6MlzQiurHmCNaNE6g" : {
+      "date" : 1496919777116,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6NTFc0YfiIUUjKcA-" : {
+      "date" : 1496919958510,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6NnKE0UiBfpvpecc_" : {
+      "date" : 1496920044104,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6NnSk72KE-UHdwBJB" : {
+      "date" : 1496920044649,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6NnpfKsFwuHWTAu-_" : {
+      "date" : 1496920046180,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6Wmb1j2cCMlGknA7B" : {
+      "date" : 1496922400766,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6XYClNVwBWFqG1mF3" : {
+      "date" : 1496922599879,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6XYGQX0jHvA2iTFw5" : {
+      "date" : 1496922600113,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6XYZs-igDEesFjOwP" : {
+      "date" : 1496922601358,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6ditgE2eKAgK3QiLc" : {
+      "date" : 1496924482732,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6djUBtPhDKUKkbAuA" : {
+      "date" : 1496924485396,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6pEQzcMLHCbaa6Dh1" : {
+      "date" : 1496927499578,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6pXR4lzUQ2ufdBhUT" : {
+      "date" : 1496927577408,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6pfDy8Nv1ZxlPv_mH" : {
+      "date" : 1496927613433,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6qfwAsqs-EzyZnN7K" : {
+      "date" : 1496927878470,
+      "type" : "ACTION_SCREEN_OFF"
+    },
+    "-Km6riByd6ELt6EdXO5A" : {
+      "date" : 1496928150565,
+      "type" : "ACTION_SCREEN_ON"
+    },
+    "-Km6rq7JYokDfD2qlgjT" : {
+      "date" : 1496928183035,
+      "type" : "ACTION_SCREEN_OFF"
+    }
+  }
+}
